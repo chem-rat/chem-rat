@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- level 1: simple bio and stats -->
 
-<!--
-**chem-rat/chem-rat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h4 align="center">  　　  　check out links　　 </h3>
 
-Here are some ideas to get you started:
+  <img src="https://file.garden/Z5VLhJB-RwipIekD/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80452_20250414173758.png"/> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+　<h4 align="center">　  [RENTRY](https://rentry.co/cptmc)　. 　[ATABOOK](https://cptmc.atabook.org/)　.　[PRNS.PAGE](https://pronouns.cc/@LINKEDGUT)　</h3> 　</h3>
+
+ 
+ <h6 align="center">grp : deepseawav on X</h6>
+
+###
+
